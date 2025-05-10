@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Welcome aboard, I'm Maximiliano - passionate about tech and latest trends. Here, you'll be able to check some of my work.
-Nickname: Max/Maxi.
+💬 Nickname: Max/Maxi.
 
 ### Connect with me:
 <p align="left">  
