@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-Welcome aboard, I'm Maximiliano from Argentina - passionate about coding and tech-related latest trends. Here, you'll be able to check some of my work.
+Welcome aboard to my GitHub repo. Here, you'll be able to check some of my work.
 
-💬 Nickname: Max/Maxi.
+- 💬 Nickname: Max/Maxi.
+- 🎓 BS in Information Systems (UNNE).
 
 ### Connect with me:
 <p align="left">  
