@@ -2,7 +2,7 @@
 
 Welcome aboard, I'm Maximiliano from Argentina - passionate about coding and tech-related latest trends. Here, you'll be able to check some of my work.
 
-- 💬 Nickname: Max/Maxi.
+💬 Nickname: Max/Maxi.
 
 ### Connect with me:
 <p align="left">  
