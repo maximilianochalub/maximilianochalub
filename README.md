@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome aboard to my GitHub repo. Here, you'll be able to check some of my work.
+Welcome aboard my GitHub repo. Here, you'll be able to check some of my work.
 
 - 💬 Nickname: Max/Maxi.
 - 🎓 BS in Information Systems (UNNE - ARG).
